@@ -14,13 +14,12 @@ Tracking training and validation metrics
 Analysis of model performance
 
 
-Project: Hair Type Classification CNN
+## Project: Hair Type Classification CNN
 Dataset
 
 The dataset contains ~1000 images of hair, split into train and test folders.
 
-Dataset source (for reference): Hair Type Dataset on Kaggle
-
+Dataset source (for reference): https://github.com/DataTalksClub/machine-learning-zoomcamp/blob/master/cohorts/2025/08-deep-learning/homework.md
 Folder structure:
 
 data/
@@ -33,9 +32,9 @@ data/
 
 
 
-Features
+## Features
 
-##CNN architecture:
+### CNN architecture:
 
 Input: (3, 200, 200) images
 
@@ -51,7 +50,7 @@ Loss function: nn.BCEWithLogitsLoss()
 
 Training: 20 epochs (10 initial + 10 with augmentation)
 
-##Data augmentation:
+### Data augmentation:
 
 Random rotation (±50°)
 
@@ -69,7 +68,7 @@ Mean test loss after augmentation: 0.08
 
 Average test accuracy (last 5 epochs): 0.68
 
-#3How to Run
+## How to Run
 
 Clone the repo:
 
