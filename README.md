@@ -1,4 +1,4 @@
-#Hair Type Classification CNN — Module 8 (ML Zoomcamp)
+# Hair Type Classification CNN — Module 8 (ML Zoomcamp)
 This repository contains my Module 8 project from the Machine Learning Zoomcamp by DataTalks. The goal of this project is to build a Convolutional Neural Network (CNN) from scratch to classify hair types (straight vs curly) using PyTorch.
 
 This project demonstrates:
