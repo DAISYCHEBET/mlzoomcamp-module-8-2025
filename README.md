@@ -63,10 +63,8 @@ Average test accuracy (last 5 epochs): 0.68
 
 Clone the repo:
 
-git clone https://github.com/YourUsername/Module8_HairType_CNN.git
+git clone https://github.com/DAISYCHEBET/mlzoomcamp-module-8-2025.git
 
-
-Upload the data.zip dataset and extract it into the data/ folder.
 
 Open the Colab notebook: Module8_HairType_CNN.ipynb.
 
@@ -74,7 +72,7 @@ Run all cells sequentially.
 
 Note: Training can be run on GPU (Colab runtime) for faster performance.
 
-Learning Outcomes
+## Learning Outcomes
 
 Practical understanding of CNNs for image classification
 
