@@ -66,7 +66,7 @@ Clone the repo:
 git clone https://github.com/DAISYCHEBET/mlzoomcamp-module-8-2025.git
 
 
-Open the Colab notebook: Module8_eight.ipynb.
+Open the Colab notebook: Module_eight.ipynb.
 
 Run all cells sequentially.
 
