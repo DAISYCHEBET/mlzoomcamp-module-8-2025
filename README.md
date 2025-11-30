@@ -20,15 +20,6 @@ Dataset
 The dataset contains ~1000 images of hair, split into train and test folders.
 
 Dataset source (for reference): https://github.com/DataTalksClub/machine-learning-zoomcamp/blob/master/cohorts/2025/08-deep-learning/homework.md
-Folder structure:
-
-data/
-  train/
-    straight/
-    curly/
-  test/
-    straight/
-    curly/
 
 
 
